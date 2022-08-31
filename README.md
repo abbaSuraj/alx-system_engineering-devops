@@ -1,1 +1,2 @@
-shell basics
+#!/bin/bash
+ absolute path
