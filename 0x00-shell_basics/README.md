@@ -1,1 +1,1 @@
-show current working directory
+realpath 0-current_working_directory
