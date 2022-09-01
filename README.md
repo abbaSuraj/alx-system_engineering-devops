@@ -1,2 +1,1 @@
-#!/bin/bash
- absolute path
+Shell permissions
