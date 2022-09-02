@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp 751 my_dir
