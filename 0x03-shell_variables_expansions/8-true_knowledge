@@ -1,2 +1,3 @@
 #!/bin/bash
-expr $TRUEKNOWLEDGE
+expr $TRUEKNOWLEDGE + 0
+
